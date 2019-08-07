@@ -14,8 +14,8 @@
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Lucas A. Bonini
+ * @date 08/2019
  *
  */
 #ifndef __STATS_H__
@@ -120,10 +120,6 @@ int find_minimum(unsigned char data_set[], int data_set_lenght);
  * @return mean
  */
  
- 
-
-
-/* sort_array() */ 
 
 
 #endif /* __STATS_H__ */
